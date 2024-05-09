@@ -1,0 +1,1 @@
+"""Faça um programa que pergunte a idade e veja se a pessoa é criança de 1 até 9 anos, adolescente de 10 até 14 anos, jovem de 15 até 17, adulto de 18 até 64 e velho acima de 65"""

@@ -1,0 +1,1 @@
+'''Crie um programa que leia o preço de um produto, e como forma de pagamento pergunte se é a vista ou parcelado. Se for a vista, ganha 12% de desconto. Se o produto for parcelado, 15% a mais de juros. E no crediário, taxa de 22% de juros. Depois mostre o total do produto com desconto ou com juros.'''

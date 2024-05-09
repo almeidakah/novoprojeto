@@ -1,0 +1,1 @@
+''' Faça um programa que digite um numero e mostre a tabuada desse numero '''
